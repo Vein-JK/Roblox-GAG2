@@ -1,15 +1,3 @@
---[[
-  ╔══════════════════════════════════════════╗
-  ║           GROW A GARDEN · AIRFLOW         ║
-  ║               Custom Script               ║
-  ╚══════════════════════════════════════════╝
-]]
-
--- Loadstring wrapper — use this as your personal loader
-loadstring(game:HttpGet("https://pastebin.com/raw/YourPasteID", true))()
-
---[[ ========== PASTE THE BELOW INTO YOUR RAW SOURCE ========== ]]
-
 --// Services
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
